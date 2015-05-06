@@ -1,0 +1,4 @@
+C:\Users\songj_000\documents\visual studio 2013\Projects\Near\NearScheduledTaskAgent\Bin\Release\NearScheduledTaskAgent.dll
+C:\Users\songj_000\documents\visual studio 2013\Projects\Near\NearScheduledTaskAgent\Bin\Release\NearScheduledTaskAgent.pdb
+C:\Users\songj_000\documents\visual studio 2013\Projects\Near\NearScheduledTaskAgent\obj\Release\NearScheduledTaskAgent.dll
+C:\Users\songj_000\documents\visual studio 2013\Projects\Near\NearScheduledTaskAgent\obj\Release\NearScheduledTaskAgent.pdb
